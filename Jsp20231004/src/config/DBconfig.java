@@ -4,7 +4,7 @@ public class DBconfig {
 	
 	private String DBUrl="jdbc:mysql://localhost:3306/BBS";
 	private String DBId="root";
-	private String DBPw="92althsla*";
+	private String DBPw="root";
 	
 
 	public DBconfig(String dBUrl, String dBId, String dBPw) {
